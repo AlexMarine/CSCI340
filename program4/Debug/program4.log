@@ -1,0 +1,3 @@
+﻿  prog4.cc
+f:\csci_340\programs\program4\program4\prog4.cc(97): warning C4804: '>': unsafe use of type 'bool' in operation
+  program4.vcxproj -> F:\CSCI_340\programs\program4\Debug\program4.exe
